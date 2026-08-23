@@ -6,7 +6,11 @@ I'm an aspiring IT professional passionate about technology, programming, networ
 
 About Me:
 💻 Interested in Networking & Security
+
 🐍 Currently learning Python
+
 🐧 Exploring Linux and system administration
+
 🤖 Building Discord bots and automation projects
+
 🌍 Goal: Build a strong IT career and work internationally
