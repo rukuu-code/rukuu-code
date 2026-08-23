@@ -1,4 +1,4 @@
-# **Hi, I'm Ruku**
+# **Hi, I'm @rukuu-code**
 
 Aspiring IT Student | Networking & Security | Python Developer
 
