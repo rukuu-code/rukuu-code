@@ -4,7 +4,7 @@ Aspiring IT Student | Networking & Security | Python Developer
 
 I'm an aspiring IT professional passionate about technology, programming, networking, and cybersecurity. I'm currently building projects to improve my skills and create a portfolio that reflects my growth as a developer.
 
-About Me
+About Me:
 💻 Interested in Networking & Security
 🐍 Currently learning Python
 🐧 Exploring Linux and system administration
