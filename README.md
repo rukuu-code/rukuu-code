@@ -14,3 +14,6 @@ About Me:
 🤖 Building Discord bots and automation projects
 
 🌍 Goal: Build a strong IT career and work internationally
+
+Discord:
+**[@aqikxeiwa](http://discordapp.com/users/620555476127711244)**
