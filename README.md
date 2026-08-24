@@ -17,3 +17,5 @@ About Me:
 
 Discord:
 **[@aqikxeiwa](http://discordapp.com/users/620555476127711244)**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,tailwind,react,threejs,rust,ts,vite,npm,vue,firebase,vercel,vscode,figma,github)](https://skillicons.dev)
