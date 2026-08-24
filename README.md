@@ -5,17 +5,18 @@ Aspiring IT Student | Networking & Security | Python Developer
 I'm an aspiring IT professional passionate about technology, programming, networking, and cybersecurity. I'm currently building projects to improve my skills and create a portfolio that reflects my growth as a developer.
 
 About Me:
-💻 Interested in Networking & Security
 
-🐍 Currently learning Python
+🔐 Focused on Networking & Security fundamentals
 
-🐧 Exploring Linux and system administration
+🐍 Developing proficiency in Python
 
-🤖 Building Discord bots and automation projects
+🐧 Exploring Linux systems and administration
 
-🌍 Goal: Build a strong IT career and work internationally
+🤖 Building automation tools and Discord bots
+
+🌍 Working toward a career in IT with international opportunities
 
 Discord:
 **[@aqikxeiwa](http://discordapp.com/users/620555476127711244)**
 
-[![My Skills](https://skillicons.dev/icons?i=html,linux,js,python,sqlite,mysql,threejs,sublime,arch,bash,bots,vscode,kali,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,linux,js,python,sqlite,mysql,threejs,sublime,arch,bash,discord,bots,vscode,kali,debian,github)](https://skillicons.dev)
