@@ -19,4 +19,4 @@ About Me:
 Discord:
 **[@aqikxeiwa](http://discordapp.com/users/620555476127711244)**
 
-[![My Skills](https://skillicons.dev/icons?i=html,linux,js,python,sqlite,mysql,threejs,sublime,arch,bash,discord,bots,vscode,kali,debian,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,linux,js,python,sqlite,mysql,sublime,arch,bash,discord,bots,vscode,kali,debian,github)](https://skillicons.dev)
