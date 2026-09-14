@@ -1,6 +1,6 @@
 # **Hi, I'm [@rukuu-code](https://github.com/rukuu-code)**
 
-Aspiring IT Student | Networking & Security | Python Developer | Virtual Assistant
+IT | Networking & Security | Python Developer | Virtual Assistant | Web Developer
 
 I'm an aspiring IT professional passionate about technology, programming, networking, and cybersecurity. I'm currently building projects to improve my skills and create a portfolio that reflects my growth as a developer.
 
